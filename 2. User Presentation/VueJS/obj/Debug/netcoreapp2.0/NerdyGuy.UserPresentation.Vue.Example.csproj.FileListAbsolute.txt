@@ -8,3 +8,4 @@ C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\Nerdy
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.AssemblyInfo.cs
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.dll
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.pdb
+C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.csprojResolveAssemblyReference.cache
