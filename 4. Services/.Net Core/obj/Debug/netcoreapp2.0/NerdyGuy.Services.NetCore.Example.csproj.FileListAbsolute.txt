@@ -3,7 +3,6 @@ C:\Software Development\4. Services\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.S
 C:\Software Development\4. Services\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.runtimeconfig.dev.json
 C:\Software Development\4. Services\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.dll
 C:\Software Development\4. Services\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.pdb
-C:\Software Development\4. Services\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.csprojResolveAssemblyReference.cache
 C:\Software Development\4. Services\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.csproj.CoreCompileInputs.cache
 C:\Software Development\4. Services\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.AssemblyInfoInputs.cache
 C:\Software Development\4. Services\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Services.NetCore.Example.AssemblyInfo.cs

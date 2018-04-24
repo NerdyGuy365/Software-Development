@@ -14,43 +14,34 @@ EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NerdyGuy.Services.NodeJS.Example", "4. Services\NodeJS\NerdyGuy.Services.NodeJS.Example.njsproj", "{06EBC842-3F12-46D6-ADF7-AAAD7FCFC335}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Prototypes", "1. Prototypes", "{AD9D91E4-8556-4161-825F-DBB577E1A5CA}"
-	ProjectSection(SolutionItems) = preProject
-		PlaceHolder.txt = PlaceHolder.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. User Presentation", "2. User Presentation", "{5B6CAE8B-F9BC-483C-9E29-3D1798BB2A51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Security", "3. Security", "{C498EB02-3720-4EC3-87D7-5D231447A4C2}"
-	ProjectSection(SolutionItems) = preProject
-		PlaceHolder.txt = PlaceHolder.txt
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Business", "5. Business", "{682F5AF9-EE30-4DE5-AC85-D30BB9387459}"
-	ProjectSection(SolutionItems) = preProject
-		PlaceHolder.txt = PlaceHolder.txt
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Data", "6. Data", "{3BF5D6E7-D392-4260-BF3F-B7E6110FFCCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Technical Support", "7. Technical Support", "{444ECDF2-0762-46C8-930C-0CB8F503732E}"
-	ProjectSection(SolutionItems) = preProject
-		PlaceHolder.txt = PlaceHolder.txt
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Customer Service", "8. Customer Service", "{54F379C3-B2FE-4C9E-8FF1-1C246C70BF52}"
-	ProjectSection(SolutionItems) = preProject
-		PlaceHolder.txt = PlaceHolder.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular", "Angular", "{5F2615FA-B2E5-4932-B2FE-0325E3EC275E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "React", "React", "{AB533847-04F0-48B6-A25B-04A91F92E612}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VueJS", "VueJS", "{6D820100-BB95-4B51-9548-37B8AE3710EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Net EF Core", ".Net EF Core", "{F055E3E2-4565-4614-949B-7925E9B7B24C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdyGuy.NetEFCore.Example", "6. Data\.Net EF Core\NerdyGuy.NetEFCore.Example.csproj", "{94E34EC5-D871-4974-B86F-34F0CE1A3117}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. User Presentation", "2. User Presentation", "{E4D3A9D5-050E-4981-935D-FB51A1A587B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular", "Angular", "{682D2EAC-32C0-44C8-AEA1-0BC3A76E5AB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdyGuy.UserPresentation.Angular.Example", "2. User Presentation\Angular\NerdyGuy.UserPresentation.Angular.Example.csproj", "{45521ABB-21AD-4CC4-B7F9-9B902FF84D44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "React", "React", "{57BF575D-D0F7-4932-B47B-C320C0AA93DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VueJS", "VueJS", "{5EFDD362-A01C-4D2F-BCE4-C9D5BD991B3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdyGuy.UserPresentation.React.Example", "2. User Presentation\React\NerdyGuy.UserPresentation.React.Example.csproj", "{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdyGuy.UserPresentation.Vue.Example", "2. User Presentation\VueJS\NerdyGuy.UserPresentation.Vue.Example.csproj", "{E973005D-54E6-4EC2-BD0D-33D65813CBA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +61,18 @@ Global
 		{94E34EC5-D871-4974-B86F-34F0CE1A3117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E34EC5-D871-4974-B86F-34F0CE1A3117}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E34EC5-D871-4974-B86F-34F0CE1A3117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45521ABB-21AD-4CC4-B7F9-9B902FF84D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45521ABB-21AD-4CC4-B7F9-9B902FF84D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45521ABB-21AD-4CC4-B7F9-9B902FF84D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45521ABB-21AD-4CC4-B7F9-9B902FF84D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E973005D-54E6-4EC2-BD0D-33D65813CBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E973005D-54E6-4EC2-BD0D-33D65813CBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E973005D-54E6-4EC2-BD0D-33D65813CBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E973005D-54E6-4EC2-BD0D-33D65813CBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,11 +82,14 @@ Global
 		{1042E523-7F2B-4F70-B10E-B109D5F3FDAA} = {95702C75-CE8C-46EA-AE5A-D98DA93B8CC9}
 		{75862953-E20F-40EB-8CCC-F1DEC58F7FE9} = {C194CD94-C6D0-4C3C-B27F-7EFBC926C3DE}
 		{06EBC842-3F12-46D6-ADF7-AAAD7FCFC335} = {75862953-E20F-40EB-8CCC-F1DEC58F7FE9}
-		{5F2615FA-B2E5-4932-B2FE-0325E3EC275E} = {5B6CAE8B-F9BC-483C-9E29-3D1798BB2A51}
-		{AB533847-04F0-48B6-A25B-04A91F92E612} = {5B6CAE8B-F9BC-483C-9E29-3D1798BB2A51}
-		{6D820100-BB95-4B51-9548-37B8AE3710EB} = {5B6CAE8B-F9BC-483C-9E29-3D1798BB2A51}
 		{F055E3E2-4565-4614-949B-7925E9B7B24C} = {3BF5D6E7-D392-4260-BF3F-B7E6110FFCCF}
 		{94E34EC5-D871-4974-B86F-34F0CE1A3117} = {F055E3E2-4565-4614-949B-7925E9B7B24C}
+		{682D2EAC-32C0-44C8-AEA1-0BC3A76E5AB6} = {E4D3A9D5-050E-4981-935D-FB51A1A587B7}
+		{45521ABB-21AD-4CC4-B7F9-9B902FF84D44} = {682D2EAC-32C0-44C8-AEA1-0BC3A76E5AB6}
+		{57BF575D-D0F7-4932-B47B-C320C0AA93DD} = {E4D3A9D5-050E-4981-935D-FB51A1A587B7}
+		{5EFDD362-A01C-4D2F-BCE4-C9D5BD991B3B} = {E4D3A9D5-050E-4981-935D-FB51A1A587B7}
+		{9D4FFB56-D8A6-47F9-A1FC-FD414BCB475D} = {57BF575D-D0F7-4932-B47B-C320C0AA93DD}
+		{E973005D-54E6-4EC2-BD0D-33D65813CBA4} = {5EFDD362-A01C-4D2F-BCE4-C9D5BD991B3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F68479-726C-4C00-9B2E-01C1976619C1}
