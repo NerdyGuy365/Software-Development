@@ -34,6 +34,7 @@ namespace NerdyGuy.Services.NetCore.Example
         {
             app.UseMiddleware<LoggingMiddleware>();
 
+
             app.UseStaticFiles();
         }
     }

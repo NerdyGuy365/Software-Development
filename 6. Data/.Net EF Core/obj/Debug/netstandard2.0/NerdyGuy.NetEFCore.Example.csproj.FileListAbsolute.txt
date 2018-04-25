@@ -1,0 +1,9 @@
+C:\Software Development\6. Data\.Net EF Core\bin\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.deps.json
+C:\Software Development\6. Data\.Net EF Core\bin\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.dll
+C:\Software Development\6. Data\.Net EF Core\bin\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.pdb
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.csprojResolveAssemblyReference.cache
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.csproj.CoreCompileInputs.cache
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.AssemblyInfoInputs.cache
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.AssemblyInfo.cs
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.dll
+C:\Software Development\6. Data\.Net EF Core\obj\Debug\netstandard2.0\NerdyGuy.NetEFCore.Example.pdb
