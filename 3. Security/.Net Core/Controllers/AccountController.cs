@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using NerdyGuy.Security.NetCore.Example.ViewModels;
 
 namespace NerdyGuy.Security.NetCore.Example.Controllers
 {
@@ -14,9 +15,15 @@ namespace NerdyGuy.Security.NetCore.Example.Controllers
         }
 
         [HttpPost] 
-        public IActionResult Login()
+        [ValidateAntiForgeryToken]
+        public IActionResult Login(LoginViewModel login)
         {
-            return View("Index");
+            return View("Logout");
+        }
+
+        public IActionResult Logout()
+        {
+            return View("Logout");
         }
     }
 }
