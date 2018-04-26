@@ -14,6 +14,11 @@ namespace NerdyGuy.Security.NetCore.Example.Controllers
             return View();
         }
 
+        public IActionResult Login()
+        {
+            return View("Index");
+        }
+
         [HttpPost] 
         [ValidateAntiForgeryToken]
         public IActionResult Login(LoginViewModel login)

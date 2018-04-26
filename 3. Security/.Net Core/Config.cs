@@ -17,8 +17,8 @@ namespace NerdyGuy.Security.NetCore.Example
                     ClientId = "mvc",
                     ClientName = "MVC Demo",
                     AllowedGrantTypes = GrantTypes.Implicit,
-                    RedirectUris = { "http://localhost:53521/signin-oidc" },
-                    AllowedScopes = { "openid", "email", "office" }
+                    RedirectUris = { "http://localhost:50862/signin-oidc" },
+                    AllowedScopes = { "openid", "email", "office", "profile" }
                 }
             };
         }

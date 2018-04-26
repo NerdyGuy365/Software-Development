@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Mvc;
 using NerdyGuy.UserPresentation.MVC.Example.Models;
 
@@ -15,18 +17,9 @@ namespace NerdyGuy.UserPresentation.MVC.Example.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Login()
         {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
+            return Challenge(new AuthenticationProperties { RedirectUri = "/Home/Index" }, OpenIdConnectDefaults.AuthenticationScheme);
         }
 
         public IActionResult Error()

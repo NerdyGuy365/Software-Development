@@ -1,2 +1,3 @@
 C:\Software Development\4. Services\NodeJS\obj\Debug\NerdyGuy.Services.NodeJS.Example.njsproj.CoreCompileInputs.cache
 C:\Software Development\4. Services\NodeJS\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Software Development\4. Services\NodeJS\obj\Debug\NerdyGuy.Services.NodeJS.Example.njsprojResolveAssemblyReference.cache
