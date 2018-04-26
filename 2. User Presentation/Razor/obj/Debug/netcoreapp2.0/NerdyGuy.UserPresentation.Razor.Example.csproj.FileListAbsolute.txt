@@ -8,3 +8,4 @@ C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\Nerdy
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.AssemblyInfo.cs
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.dll
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.pdb
+C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.csprojResolveAssemblyReference.cache
