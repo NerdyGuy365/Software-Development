@@ -9,3 +9,14 @@ C:\Software Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGu
 C:\Software Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.dll
 C:\Software Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.pdb
 C:\Software Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.csprojResolveAssemblyReference.cache
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.deps.json
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.runtimeconfig.json
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.runtimeconfig.dev.json
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.pdb
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.AssemblyInfoInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.AssemblyInfo.cs
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.pdb
+C:\Development\Repos\Software-Development\2. User Presentation\MVC\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.MVC.Example.csprojResolveAssemblyReference.cache

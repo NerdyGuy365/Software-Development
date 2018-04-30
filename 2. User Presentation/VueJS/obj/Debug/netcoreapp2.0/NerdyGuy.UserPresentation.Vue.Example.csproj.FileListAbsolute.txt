@@ -9,3 +9,13 @@ C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\Nerdy
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.dll
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.pdb
 C:\Software Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.csprojResolveAssemblyReference.cache
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.deps.json
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.runtimeconfig.json
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.runtimeconfig.dev.json
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.pdb
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.AssemblyInfoInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.AssemblyInfo.cs
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\VueJS\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Vue.Example.pdb

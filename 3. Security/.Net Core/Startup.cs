@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-using NerdyGuy.Security.NetCore.Example.Models;
 
 namespace NerdyGuy.Security.NetCore.Example
 {
@@ -16,25 +15,28 @@ namespace NerdyGuy.Security.NetCore.Example
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
             services.AddIdentityServer()
                 .AddSigningCredential("CN=sts", System.Security.Cryptography.X509Certificates.StoreLocation.CurrentUser)
-                .AddTestUsers(TestUsers.Users)
-                .AddInMemoryClients(Config.GetClients())
-                .AddInMemoryIdentityResources(Config.GetIdentityResources())
-                .AddInMemoryApiResources(Config.GetApiResources());
+                .AddTestUsers(TokenServiceConfig.GetTestUsers())
+                .AddInMemoryClients(TokenServiceConfig.GetTestClients())
+                .AddInMemoryIdentityResources(TokenServiceConfig.GetTestIdentityResources())
+                .AddInMemoryApiResources(TokenServiceConfig.GetTestApiResources());
+
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseStaticFiles();
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+
             app.UseIdentityServer();
 
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute("default", "{controller=Account}/{action=Index}/{id?}");
-            });
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }

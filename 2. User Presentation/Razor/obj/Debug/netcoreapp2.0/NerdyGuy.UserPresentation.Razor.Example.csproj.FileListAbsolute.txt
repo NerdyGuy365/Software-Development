@@ -8,3 +8,13 @@ C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\Nerdy
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.AssemblyInfo.cs
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.dll
 C:\Software Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.pdb
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.deps.json
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.runtimeconfig.json
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.runtimeconfig.dev.json
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\bin\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.pdb
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.AssemblyInfoInputs.cache
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.AssemblyInfo.cs
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.dll
+C:\Development\Repos\Software-Development\2. User Presentation\Razor\obj\Debug\netcoreapp2.0\NerdyGuy.UserPresentation.Razor.Example.pdb

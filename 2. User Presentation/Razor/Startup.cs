@@ -39,7 +39,10 @@ namespace NerdyGuy.UserPresentation.Razor.Example
 
             app.UseStaticFiles();
 
-            app.UseMvc();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute("default", "{controller=Account}/{action=Index}/{id?}");
+            });
         }
     }
 }

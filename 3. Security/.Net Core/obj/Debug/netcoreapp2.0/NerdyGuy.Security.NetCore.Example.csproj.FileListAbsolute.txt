@@ -9,3 +9,14 @@ C:\Software Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.S
 C:\Software Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.dll
 C:\Software Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.pdb
 C:\Software Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.csprojResolveAssemblyReference.cache
+C:\Development\Repos\Software-Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.deps.json
+C:\Development\Repos\Software-Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.runtimeconfig.json
+C:\Development\Repos\Software-Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.runtimeconfig.dev.json
+C:\Development\Repos\Software-Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.dll
+C:\Development\Repos\Software-Development\3. Security\.Net Core\bin\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.pdb
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.csprojResolveAssemblyReference.cache
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.csproj.CoreCompileInputs.cache
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.AssemblyInfoInputs.cache
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.AssemblyInfo.cs
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.dll
+C:\Development\Repos\Software-Development\3. Security\.Net Core\obj\Debug\netcoreapp2.0\NerdyGuy.Security.NetCore.Example.pdb
