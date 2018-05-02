@@ -55,6 +55,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{ADE02F01-B0B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdyGuy.UserPresentation.MVC.Example", "2. User Presentation\MVC\NerdyGuy.UserPresentation.MVC.Example.csproj", "{87CA7186-9EC8-49DC-A8C0-C0E34DB6B43B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{DE16C6BE-2614-4961-95F3-FF5C9C7975D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdyGuy.UserPresentation.Console.Example", "2. User Presentation\Console\NerdyGuy.UserPresentation.Console.Example.csproj", "{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +101,10 @@ Global
 		{87CA7186-9EC8-49DC-A8C0-C0E34DB6B43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87CA7186-9EC8-49DC-A8C0-C0E34DB6B43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87CA7186-9EC8-49DC-A8C0-C0E34DB6B43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -120,6 +128,8 @@ Global
 		{2E6D3769-ADBB-4289-8938-28FDEA6A72F2} = {B0DFC1CD-E120-4659-BA1A-600B3C068F0D}
 		{ADE02F01-B0B7-4E6E-9950-1AAE410E85F9} = {E4D3A9D5-050E-4981-935D-FB51A1A587B7}
 		{87CA7186-9EC8-49DC-A8C0-C0E34DB6B43B} = {ADE02F01-B0B7-4E6E-9950-1AAE410E85F9}
+		{DE16C6BE-2614-4961-95F3-FF5C9C7975D6} = {E4D3A9D5-050E-4981-935D-FB51A1A587B7}
+		{5EB1A1ED-13A4-4518-B6B2-46AEAE673B21} = {DE16C6BE-2614-4961-95F3-FF5C9C7975D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6F68479-726C-4C00-9B2E-01C1976619C1}

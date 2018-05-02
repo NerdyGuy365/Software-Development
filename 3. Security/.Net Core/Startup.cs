@@ -16,7 +16,8 @@ namespace NerdyGuy.Security.NetCore.Example
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddIdentityServer()
-                .AddSigningCredential("CN=sts", System.Security.Cryptography.X509Certificates.StoreLocation.CurrentUser)
+                .AddDeveloperSigningCredential()
+                //.AddSigningCredential("CN=sts", System.Security.Cryptography.X509Certificates.StoreLocation.CurrentUser)
                 .AddTestUsers(TokenServiceConfig.GetTestUsers())
                 .AddInMemoryClients(TokenServiceConfig.GetTestClients())
                 .AddInMemoryIdentityResources(TokenServiceConfig.GetTestIdentityResources())
