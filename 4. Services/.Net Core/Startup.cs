@@ -26,16 +26,19 @@ namespace NerdyGuy.Services.NetCore.Example
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddMvcCore()
+              .AddAuthorization()
+              .AddJsonFormatters();
+
+            services.AddAuthentication("Bearer")
+                .AddIdentityServerAuthentication(options => TokenServiceConfig.GetDefaultAuthenticationOptions(options));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.UseMiddleware<LoggingMiddleware>();
-
-
-            app.UseStaticFiles();
+            app.UseAuthentication();
+            app.UseMvc();
         }
     }
 }

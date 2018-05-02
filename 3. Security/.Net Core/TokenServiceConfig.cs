@@ -20,6 +20,7 @@ namespace NerdyGuy.Security.NetCore.Example
                 {
                     ClientId = "mvc",
                     ClientName = "MVC Demo",
+
                     AllowedGrantTypes = GrantTypes.Implicit,
                     RedirectUris = { "http://localhost:5002/signin-oidc" },
                     PostLogoutRedirectUris = { "http://localhost:5002/signin-callback-oidc" },
@@ -27,7 +28,22 @@ namespace NerdyGuy.Security.NetCore.Example
                     {
                        IdentityServerConstants.StandardScopes.OpenId,
                        IdentityServerConstants.StandardScopes.Profile,
-                       IdentityServerConstants.StandardScopes.Email
+                       IdentityServerConstants.StandardScopes.Email,
+                    }
+                },
+                new Client
+                {
+                    ClientId = "api",
+                     // no interactive user, use the clientid/secret for authentication
+                    AllowedGrantTypes = GrantTypes.ClientCredentials,
+
+                    ClientSecrets =
+                    {
+                        new Secret("secret".Sha256())
+                    },
+                    AllowedScopes = new List<string>
+                    {
+                       "api1"
                     }
                 }
             };
@@ -52,7 +68,7 @@ namespace NerdyGuy.Security.NetCore.Example
         {
             return new ApiResource[]
             {
-
+                new ApiResource("api1", "My API")
             };
         }
 
